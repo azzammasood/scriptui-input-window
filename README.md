@@ -3,7 +3,9 @@ Modular code to seamlessly create a window and add input elements in it. The cre
 
 Useful Links:
 Control Types and Creation Parameters are on this link: https://extendscript.docsforadobe.dev/user-interface-tools/control-objects.html#control-object-constructors
+
 Types of Controls are on this link: https://extendscript.docsforadobe.dev/user-interface-tools/types-of-controls.html
+
 Example codes for ScriptUI: https://extendscript.docsforadobe.dev/user-interface-tools/code-examples-for-scriptui.html
 
 
