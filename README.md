@@ -2,11 +2,10 @@
 Modular code to seamlessly create a window and add input elements in it. The created window as its AutomaticLayout property enabled, who auto adjusts the layout of its objects, so the origin points and area of the controls need not be defined.
 
 Useful Links:
-Control Types and Creation Parameters are on this link: https://extendscript.docsforadobe.dev/user-interface-tools/control-objects.html#control-object-constructors
 
-Types of Controls are on this link: https://extendscript.docsforadobe.dev/user-interface-tools/types-of-controls.html
-
-Example codes for ScriptUI: https://extendscript.docsforadobe.dev/user-interface-tools/code-examples-for-scriptui.html
+1. Control Types and Creation Parameters are on this link: https://extendscript.docsforadobe.dev/user-interface-tools/control-objects.html#control-object-constructors
+2. Types of Controls are on this link: https://extendscript.docsforadobe.dev/user-interface-tools/types-of-controls.html
+3. Example codes for ScriptUI: https://extendscript.docsforadobe.dev/user-interface-tools/code-examples-for-scriptui.html
 
 
 Types of controls that can be added are:
