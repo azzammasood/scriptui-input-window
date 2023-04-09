@@ -1,5 +1,5 @@
 # Input Window Template for Photoshop
-Modular code to seamlessly create a window and add input elements in it. The created window as its AutomaticLayout property enabled, who auto adjusts the layout of its objects, so the origin points and area of the controls need not be defined.
+Modular code to seamlessly create a window and add input elements in it. The created window has its AutomaticLayout property enabled, who auto adjusts the layout of its objects, so the origin points and area of the controls need not be defined.
 
 Useful Links:
 
